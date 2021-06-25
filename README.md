@@ -1,8 +1,12 @@
 # Sudoku-Snapshot
 Take a picture of a sudoku and have SnapSudoku solve it for you!
+
+
 TO-DO:
 -->Improve algorithm to get better Sudoku Grid extraction, make it more robust against blurs .
 -->Improve empty cell detection. Only a basic logic is used right now.
+
+
 Prerequisites:
 Python 2.7 (only)
 
